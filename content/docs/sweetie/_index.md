@@ -20,6 +20,22 @@ What matters most to Sweetie in our new home.
 
 ---
 
+## Budget & Financing
+
+| | |
+|---|---|
+| **Available Equity** | TBD |
+| **Ownership Model** | 50/50 equity split |
+| **Maximum Purchase** | TBD |
+
+### Ideal Scenario
+<!-- What's the ideal financial outcome? Paid off? Low mortgage? -->
+
+### Flexibility
+<!-- Under what conditions would you stretch the budget? -->
+
+---
+
 ## Location & Setting
 
 | Priority | Feature |
@@ -28,15 +44,6 @@ What matters most to Sweetie in our new home.
 | | Proximity to city (shopping, dining, work) |
 | | Quiet, friendly neighborhood |
 | | Nearby nature trails or walking spots |
-
-## Budget & Ownership
-
-| Priority | Feature |
-|:--------:|---------|
-| | Comfortable monthly cost (mortgage + taxes + insurance) |
-| | New build or light fixer-upper (not major rehab) |
-| | Avoid major foundational/electrical issues |
-| | Long-term livability and resale value |
 
 ## Interior Space
 

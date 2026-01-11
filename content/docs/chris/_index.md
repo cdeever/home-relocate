@@ -20,6 +20,27 @@ What matters most to Chris in our new home.
 
 ---
 
+## Budget & Financing
+
+| | |
+|---|---|
+| **Hard Equity** | $310-320k (from current home sale) |
+| **Stretch Capacity** | Additional cash or equity loan available |
+| **Ownership Model** | 50/50 equity split |
+
+### Preferred Budget
+$620-640k purchase (hard equity only, assuming matched contribution). Strongly prefer home fully paid or minimal mortgage (under $30-50k owed).
+
+### Maximum Budget
+$700k if stretching with additional funds. This is a compromise—lower is better.
+
+### Flexibility
+Would consider $550k purchase + $100k renovation budget if:
+- Exceptional location
+- Standout feature that's hard to find elsewhere
+
+---
+
 ## Location & Setting
 
 | Priority | Feature |
@@ -28,16 +49,6 @@ What matters most to Chris in our new home.
 | | Proximity to city (shopping, dining, work) |
 | | Quiet, friendly neighborhood |
 | | Nearby nature trails or walking spots |
-
-## Budget & Ownership
-
-| Priority | Feature |
-|:--------:|---------|
-| | Comfortable monthly cost (mortgage + taxes + insurance) |
-| | New build or light fixer-upper (not major rehab) |
-| | Avoid major foundational/electrical issues |
-| | Long-term livability and resale value |
-| | Clear ownership split and agreement |
 
 ## Interior Space
 
