@@ -6,16 +6,13 @@ bookCollapseSection: true
 
 # House Candidates
 
-Properties we're considering and how they match our criteria.
+Properties we're considering, organized by area.
 
-## How to Add a House
+## Areas
 
-Create a new page in this section for each house with:
-- Link to the listing
-- Address/location
-- Key stats (price, sqft, beds, baths, taxes)
-- Match scores against our wishes
-
----
-
-*No houses added yet. Add your first candidate!*
+- [Lewis Center](lewis-center/)
+- [Westerville-Polaris](westerville-polaris/)
+- [Worthington Hills](worthington-hills/)
+- [Powell](powell/)
+- [Sunbury](sunbury/)
+- [Delaware](delaware/)
