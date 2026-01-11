@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'Home Relocate'
 theme = 'hugo-book'
 
+enableGitInfo = true
+
 # Book theme configuration
 [params]
   BookTheme = 'auto'
