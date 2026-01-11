@@ -30,14 +30,22 @@ content/docs/
 │   ├── _index.md
 │   ├── budget.md
 │   ├── location.md
-│   ├── interior.md
+│   ├── interior/
+│   │   ├── _index.md
+│   │   ├── kitchen.md
+│   │   ├── workout.md
+│   │   └── office.md
 │   ├── exterior.md
 │   └── garage.md
 ├── chris/                     # Chris's preferences
 │   ├── _index.md
 │   ├── budget.md
 │   ├── location.md
-│   ├── interior.md
+│   ├── interior/
+│   │   ├── _index.md
+│   │   ├── kitchen.md
+│   │   ├── workout.md
+│   │   └── office.md
 │   ├── exterior.md
 │   └── garage.md
 └── houses/                    # Candidates by area
@@ -59,6 +67,7 @@ content/docs/
 | ◐ | Nice to Have - desired but flexible |
 | ○ | Indifferent - no preference |
 | ⛔ | Reject - presence is a deal-breaker |
+| ↻ | Willing to add/renovate |
 
 ### Adding a House
 

@@ -14,6 +14,7 @@ How we rank features when evaluating homes.
 | ◐ | **Nice to Have** | Desired but flexible. Adds value but we can live without it. |
 | ○ | **Indifferent** | No strong preference either way. Doesn't factor into the decision. |
 | ⛔ | **Reject** | Presence of this is a deal-breaker. Examples: foundation issues, HOA restrictions we can't accept, unworkable layout. |
+| ↻ | **Willing to Renovate** | Feature not required as-is. Open to adding or upgrading post-purchase. |
 
 ## How We Use This
 
