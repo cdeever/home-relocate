@@ -6,17 +6,10 @@ bookCollapseSection: true
 
 # Sweetie's Wishes
 
-What matters most to Sweetie in our new home.
+What matters most to Sweetie in our new home. These are my individual desires and constraints—not pre-compromised. The goal is to find the best match for both of us.
 
-## Priority Scale
-
-| Rating | Meaning |
-|:------:|---------|
-| ★ | **Deal Breaker** - Must exist or we walk |
-| ● | **Must Have** - Required |
-| ◐ | **Nice to Have** - Desired but flexible |
-| ○ | **Indifferent** - No strong preference |
-| ⛔ | **Reject** - Presence is a deal-breaker |
+## My Ideal Outcome
+<!-- What does your perfect scenario look like? -->
 
 ---
 
