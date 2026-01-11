@@ -6,34 +6,45 @@ weight: 1
 # Kitchen
 
 ## Layout
-- Open concept to living area
-- Eat-in kitchen / breakfast nook
-- Pantry (walk-in preferred)
-- Island with seating
+
+| Feature | Pri | +↻ |
+|---------|:---:|:--:|
+| Open concept to living | | |
+| Eat-in / breakfast nook | | |
+| Walk-in pantry | | |
+| Island with seating | | |
 
 ## Cabinets
-- Shaker style
-- Raised panel
-- Flat panel / modern
-- Soft-close drawers and doors
-- ↻ Willing to renovate
+
+| Feature | Pri | +↻ |
+|---------|:---:|:--:|
+| Shaker style | | |
+| Raised panel | | |
+| Flat panel / modern | | |
+| Soft-close hardware | | |
 
 ## Countertops
-- Granite
-- Quartz
-- Butcher block accents
-- ↻ Willing to renovate
+
+| Feature | Pri | +↻ |
+|---------|:---:|:--:|
+| Granite | | |
+| Quartz | | |
+| Butcher block accents | | |
 
 ## Backsplash
-- Subway tile
-- Mosaic tile
-- Stone/marble
-- Modern/glass
-- ↻ Willing to renovate
+
+| Feature | Pri | +↻ |
+|---------|:---:|:--:|
+| Subway tile | | |
+| Mosaic tile | | |
+| Stone / marble | | |
+| Modern / glass | | |
 
 ## Appliances
-- Gas range
-- Double oven
-- Stainless steel
-- Built-in microwave
-- ↻ Willing to upgrade
+
+| Feature | Pri | +↻ |
+|---------|:---:|:--:|
+| Gas range | | |
+| Double oven | | |
+| Stainless steel | | |
+| Built-in microwave | | |

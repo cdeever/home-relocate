@@ -7,22 +7,36 @@ bookCollapseSection: true
 # Interior
 
 ## Layout & Rooms
-- Primary suite on main level
-- Guest bedroom (for kids, parents)
-- Finished lower level
-- Unfinished area for electronics workshop
-- Guest bath separate from primary suite
+
+| Feature | Pri | +↻ |
+|---------|:---:|:--:|
+| Primary suite on main level | | |
+| 2+ bedrooms | | |
+| 3+ bedrooms | | |
+| Finished lower level | | |
+| Unfinished area for workshop | | |
+| Guest bath separate from primary | | |
 
 ## Comfort & Features
-- Wood-burning fireplace
-- Natural light and good windows
-- Laundry on main level or near bedrooms
-- Networking flexibility (no pre-wire needed)
-- Ample storage (closets, attic)
+
+| Feature | Pri | +↻ |
+|---------|:---:|:--:|
+| Wood-burning fireplace | | |
+| Gas fireplace | | |
+| Natural light / good windows | | |
+| Laundry on main level | | |
+| Laundry near bedrooms | | |
+| Networking flexibility | | |
+| Ample closet storage | | |
+| Attic storage | | |
 
 ---
 
 ## Detailed Sections
+- [Master Suite](master-suite/)
+- [Bedrooms](bedrooms/)
 - [Kitchen](kitchen/)
+- [Laundry / Mud Room](laundry/)
 - [Workout Area](workout/)
 - [Office Workspace](office/)
+- [Tutoring Workspace](tutoring/)

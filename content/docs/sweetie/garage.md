@@ -5,6 +5,13 @@ weight: 5
 
 # Garage & Parking
 
-- 3-car garage
-- Driveway space for guests/deliveries
-- Ample garage storage
+| Feature | Pri | +↻ |
+|---------|:---:|:--:|
+| 2+ car garage | | |
+| 3+ car garage | | |
+| Attached | | |
+| Side-load | | |
+| Insulated | | |
+| Heated | | |
+| Driveway for guests/deliveries | | |
+| Ample storage | | |

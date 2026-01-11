@@ -5,16 +5,23 @@ weight: 3
 
 # Office Workspace
 
-## Location Options
-- Dedicated room on main level
-- Finished lower level
-- Dedicated area upstairs
-- Repurposed bedroom
-- ↻ Willing to renovate/convert space
+Need two dedicated work areas in the home.
 
-## Features
-- Natural light / windows
-- Room for desk and monitors
-- Built-in shelving or closet
-- Door for privacy / video calls
-- Ethernet access or easy to run
+---
+
+## Sweetie's Office
+
+| Feature | Pri | +↻ |
+|---------|:---:|:--:|
+| Dedicated room (den/study) | | |
+| Loft area | | |
+| Finished lower level | | |
+| Repurposed bedroom - main | | |
+| Repurposed bedroom - upper | | |
+
+| Feature | Pri | +↻ |
+|---------|:---:|:--:|
+| Natural light / windows | | |
+| Room for desk + monitors | | |
+| Door for privacy | | |
+| Ethernet / easy to run | | |

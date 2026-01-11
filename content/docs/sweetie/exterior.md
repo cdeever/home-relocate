@@ -6,9 +6,19 @@ weight: 4
 # Exterior
 
 ## Outdoor Spaces
-- Deck or patio (kitten-approved)
-- Low-maintenance yard
+
+| Feature | Pri | +↻ |
+|---------|:---:|:--:|
+| Deck | | |
+| Patio | | |
+| Screened porch | | |
+| Fenced yard | | |
+| Low-maintenance yard | | |
 
 ## Curb Appeal
-- Attractive elevation/facade
-- Well-maintained landscaping
+
+| Feature | Pri | +↻ |
+|---------|:---:|:--:|
+| Attractive elevation/facade | | |
+| Well-maintained landscaping | | |
+| Good roof condition | | |

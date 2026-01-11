@@ -16,6 +16,15 @@ How we rank features when evaluating homes.
 | ⛔ | **Reject** | Presence of this is a deal-breaker. Examples: foundation issues, HOA restrictions we can't accept, unworkable layout. |
 | ↻ | **Willing to Renovate** | Feature not required as-is. Open to adding or upgrading post-purchase. |
 
+## Table Format
+
+| Column | Meaning |
+|--------|---------|
+| **Pri** | Priority rating (★ ● ◐ ○ ⛔) |
+| **+↻** | Check if willing to add/renovate |
+
+**"At least" notation:** `3+` means "3 or more" (e.g., 3+ car garage, 2,500+ sqft)
+
 ## How We Use This
 
 1. **Sweetie** and **Chris** each rank every feature independently
