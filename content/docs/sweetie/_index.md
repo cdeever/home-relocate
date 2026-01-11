@@ -8,41 +8,74 @@ bookCollapseSection: true
 
 What matters most to Sweetie in our new home.
 
+## Priority Scale
+
+| Rating | Meaning |
+|:------:|---------|
+| ★ | **Deal Breaker** - Must exist or we walk |
+| ● | **Must Have** - Required |
+| ◐ | **Nice to Have** - Desired but flexible |
+| ○ | **Indifferent** - No strong preference |
+| ⛔ | **Reject** - Presence is a deal-breaker |
+
+---
+
 ## Location & Setting
-- Suburban or semi-rural preferred
-- Proximity to a city (shopping, dining, work)
-- Quiet, friendly neighborhood with calm vibe
-- Nearby nature trails or outdoor walking spots
+
+| Priority | Feature |
+|:--------:|---------|
+| | Suburban or semi-rural setting |
+| | Proximity to city (shopping, dining, work) |
+| | Quiet, friendly neighborhood |
+| | Nearby nature trails or walking spots |
 
 ## Budget & Ownership
-- Comfortable monthly cost (mortgage + taxes + insurance)
-- Open to new build or light fixer-upper
-- Nothing too old (avoid major foundational/electrical issues)
-- Long-term livability and good resale value
+
+| Priority | Feature |
+|:--------:|---------|
+| | Comfortable monthly cost (mortgage + taxes + insurance) |
+| | New build or light fixer-upper (not major rehab) |
+| | Avoid major foundational/electrical issues |
+| | Long-term livability and resale value |
 
 ## Interior Space
-- Primary suite on main level if possible
-- At least one guest bedroom (for kids, parents)
-- Dedicated kitten foster room (quiet, easy-clean flooring)
-- Finished lower level
+
+| Priority | Feature |
+|:--------:|---------|
+| | Primary suite on main level |
+| | Guest bedroom (for kids, parents) |
+| | Dedicated kitten foster room (quiet, easy-clean flooring) |
+| | Finished lower level |
 
 ## Workout Space
-- Room for treadmill
-- Possibly elliptical too
-- Should not feel cramped
+
+| Priority | Feature |
+|:--------:|---------|
+| | Room for treadmill |
+| | Room for elliptical |
+| | Open, non-cramped feel |
 
 ## Garage & Parking
-- 3-car garage
-- Driveway space for guests or deliveries
+
+| Priority | Feature |
+|:--------:|---------|
+| | 3-car garage |
+| | Driveway space for guests/deliveries |
 
 ## Comfort & Features
-- Wood-burning fireplace preferred
-- Natural light and good windows
-- Laundry on main level or near bedrooms
-- Modern kitchen (or fun upgrade project)
-- Deck or patio (kitten-approved)
 
-## Bonus/Nice-to-Haves
-- Storage throughout (garage, closets, attic)
-- Low-maintenance yard
-- Guest bath separate from main suite
+| Priority | Feature |
+|:--------:|---------|
+| | Wood-burning fireplace |
+| | Natural light and good windows |
+| | Laundry on main level or near bedrooms |
+| | Modern kitchen (or upgrade-ready) |
+| | Deck or patio (kitten-approved) |
+
+## Bonus Items
+
+| Priority | Feature |
+|:--------:|---------|
+| | Ample storage (garage, closets, attic) |
+| | Low-maintenance yard |
+| | Guest bath separate from primary suite |
