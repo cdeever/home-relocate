@@ -6,6 +6,11 @@ bookCollapseSection: true
 
 # Delaware
 
-Candidates in the Delaware area.
+County seat north of Columbus. Mix of historic downtown and newer subdivisions in Orange Township.
 
-*No houses added yet.*
+## Area Notes
+- Delaware County schools (Olentangy or Delaware City)
+- ~20-25 min to Lewis Center
+- Lower taxes than Franklin County
+- Mix of older and newer construction
+- More rural feel in some areas

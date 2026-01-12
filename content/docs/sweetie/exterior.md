@@ -12,6 +12,7 @@ weight: 4
 | Deck | | |
 | Patio | | |
 | Screened porch | | |
+| Sunroom | | |
 | Fenced yard | | |
 | Low-maintenance yard | | |
 
