@@ -15,5 +15,6 @@ Properties we're considering, organized by area.
 - [Worthington](worthington/)
 - [Worthington Hills](worthington-hills/)
 - [Powell](powell/)
+- [Galena](galena/)
 - [Sunbury](sunbury/)
 - [Delaware](delaware/)
