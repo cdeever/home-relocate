@@ -12,6 +12,7 @@ Properties we're considering, organized by area.
 
 - [Lewis Center](lewis-center/)
 - [Westerville-Polaris](westerville-polaris/)
+- [Worthington](worthington/)
 - [Worthington Hills](worthington-hills/)
 - [Powell](powell/)
 - [Sunbury](sunbury/)
