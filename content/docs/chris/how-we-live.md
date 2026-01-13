@@ -49,6 +49,24 @@ Activities that need dedicated space in our home.
 |-------------|:---:|
 | Sweetie's workout needs met | ♡ |
 
+## Big Screen / Game Day
+
+| Requirement | Pri |
+|-------------|:---:|
+| Room for big screen TV + seating | ● |
+
+*Options: family room, finished basement, or bonus room.*
+
+## Arcade / Retro Gaming
+
+| Requirement | Pri |
+|-------------|:---:|
+| Space for full-size arcade cabinet | ● |
+| Space for CRT TV + retro consoles | ● |
+| DJ controller area | ◐ |
+
+*Preferred: finished basement. Unfinished works too.*
+
 ## Woodshop / Workshop
 
 | Requirement | Pri |
