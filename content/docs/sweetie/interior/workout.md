@@ -5,20 +5,8 @@ weight: 2
 
 # Workout Area
 
-## Location Options
-
-| Feature | Pri | +↻ |
-|---------|:---:|:--:|
-| Dedicated area in finished lower | | |
-| Dedicated area in unfinished | | |
-| Repurposed bedroom | | |
-
-## Space Requirements
-
-| Feature | Pri | +↻ |
-|---------|:---:|:--:|
-| Room for treadmill | | |
-| Room for elliptical | | |
-| Open, non-cramped feel | | |
-| Good ventilation | | |
-| Wall mirrors | | |
+| Requirement | Pri |
+|-------------|:---:|
+| Room for treadmill | ● |
+| Sizeable area for 1-2 additional cardio pieces | ◐ |
+| Open, non-cramped feel | ◐ |

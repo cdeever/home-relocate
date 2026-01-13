@@ -5,31 +5,10 @@ weight: 4
 
 # Master Suite
 
-## Location
+| Requirement | Pri |
+|-------------|:---:|
+| Fits king bed + wall TV + sound system | ● |
+| Not cramped | ● |
+| En suite bathroom | ● |
 
-| Feature | Pri | +↻ |
-|---------|:---:|:--:|
-| Main level | | |
-| Upper level | | |
-| Separate wing / private | | |
-
-## Bedroom
-
-| Feature | Pri | +↻ |
-|---------|:---:|:--:|
-| Fits king bed + furniture | | |
-| Walk-in closet | | |
-| 2 closets | | |
-| Natural light | | |
-| Ceiling fan | | |
-
-## Bathroom
-
-| Feature | Pri | +↻ |
-|---------|:---:|:--:|
-| Dedicated bath (en suite) | | |
-| Double vanity | | |
-| Separate shower + tub | | |
-| Soaking tub | | |
-| Walk-in shower | | |
-| Linen closet in bath | | |
+*Combined setup: king bed, wall-mounted TV, stereo system. Needs room to breathe.*

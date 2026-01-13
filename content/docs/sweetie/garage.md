@@ -3,15 +3,13 @@ title: "Garage"
 weight: 5
 ---
 
-# Garage & Parking
+# Garage
 
-| Feature | Pri | +↻ |
-|---------|:---:|:--:|
-| 2+ car garage | | |
-| 3+ car garage | | |
-| Attached | | |
-| Side-load | | |
-| Insulated | | |
-| Heated | | |
-| Driveway for guests/deliveries | | |
-| Ample storage | | |
+| Requirement | Pri | +↻ |
+|-------------|:---:|:--:|
+| 3+ car | ● | |
+| Side-load | ◐ | |
+
+## Pending Confirmation
+
+- Is 3-car still the requirement, or would 2+ oversize work?

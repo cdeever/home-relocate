@@ -5,20 +5,8 @@ weight: 2
 
 # Workout Area
 
-## Location Options
+| Requirement | Pri |
+|-------------|:---:|
+| Sweetie's workout needs met | ♡ |
 
-| Feature | Pri | +↻ |
-|---------|:---:|:--:|
-| Dedicated area in finished lower | | |
-| Dedicated area in unfinished | | |
-| Repurposed bedroom | | |
-
-## Space Requirements
-
-| Feature | Pri | +↻ |
-|---------|:---:|:--:|
-| Room for treadmill | | |
-| Room for elliptical | | |
-| Open, non-cramped feel | | |
-| Good ventilation | | |
-| Wall mirrors | | |
+*See [Sweetie's How We Live](../../sweetie/how-we-live/) for workout requirements.*

@@ -1,27 +1,12 @@
 ---
-title: "Tutoring Workspace"
+title: "Tutoring Space"
 weight: 7
 ---
 
-# Tutoring Workspace
+# Tutoring Space
 
-## Location Options
+| Requirement | Pri |
+|-------------|:---:|
+| Sweetie's tutoring needs met | ♡ |
 
-| Feature | Pri | +↻ |
-|---------|:---:|:--:|
-| Dining room | | |
-| Kitchen table / eat-in | | |
-| Dedicated room | | |
-| Living room area | | |
-| Finished lower level | | |
-| Flex room / bonus room | | |
-
-## Features
-
-| Feature | Pri | +↻ |
-|---------|:---:|:--:|
-| Near front entry | | |
-| Separate from main living | | |
-| Good lighting | | |
-| Room for 2-3 people | | |
-| Whiteboard / display space | | |
+*See [Sweetie's Tutoring Space](../../sweetie/interior/tutoring/) for requirements.*

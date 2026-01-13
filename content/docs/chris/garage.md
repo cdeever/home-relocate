@@ -3,17 +3,12 @@ title: "Garage"
 weight: 5
 ---
 
-# Garage & Parking
+# Garage
 
-| Feature | Pri | +↻ |
-|---------|:---:|:--:|
-| 2+ car garage | | |
-| 3+ car garage | | |
-| Attached | | |
-| Side-load | | |
-| Insulated | | |
-| Heated | | |
-| Project car / tinkering bay | | |
-| Basement access from garage | | |
-| Driveway for guests/deliveries | | |
-| Ample storage | | |
+| Requirement | Pri | +↻ |
+|-------------|:---:|:--:|
+| 2+ car oversize | ● | |
+| Room to work on car (shop area) | ● | |
+| Usual garage storage | ● | |
+| Side-load | ◐ | |
+| 3+ car | ◐ | |

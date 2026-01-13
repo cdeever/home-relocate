@@ -5,20 +5,10 @@ weight: 4
 
 # Exterior
 
-## Outdoor Spaces
+| Requirement | Pri | +↻ |
+|-------------|:---:|:--:|
+| Nice outdoor living area | ● | ↻ |
+| Paver patio | ◐ | ↻ |
+| Deck | ◐ | ↻ |
 
-| Feature | Pri | +↻ |
-|---------|:---:|:--:|
-| Deck | | |
-| Patio | | |
-| Screened porch | | |
-| Fenced yard | | |
-| Low-maintenance yard | | |
-
-## Curb Appeal
-
-| Feature | Pri | +↻ |
-|---------|:---:|:--:|
-| Attractive elevation/facade | | |
-| Well-maintained landscaping | | |
-| Good roof condition | | |
+*Paver patio preferred, but deck works too. Could refurbish an area if needed.*
